@@ -1,0 +1,12 @@
+# This is sample hosts file
+# edit this
+# 127.0.0.1   localhost
+# ::1   localhost
+# This is sample hosts file
+# edit this
+# 127.0.0.1   localhost
+# ::1   localhost
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 live.com
+127.0.0.1 hotmail.com
